@@ -1209,3 +1209,7 @@ function changetositesmap(){
     
 }
 
+function moreinfo() {
+    alert("Du har klickat på Mer info-knappen!");
+}
+
